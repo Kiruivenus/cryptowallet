@@ -139,7 +139,7 @@ export default function ReferralsPage() {
               <span className="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-primary/20 text-xs font-bold text-primary">
                 3
               </span>
-              <span>When they deposit $60 or more, you earn $2 USDT</span>
+              <span>When they deposit $10 or more, you earn $2 USDT</span>
             </li>
             <li className="flex gap-3">
               <span className="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-primary/20 text-xs font-bold text-primary">
