@@ -17,7 +17,7 @@ export default async function FirstDepositInstructionsPage() {
   const db = client.db("cryptowallet")
   const settings = await db.collection("appSettings").findOne({})
 
-  const minAmount = settings?.bonuses?.firstDepositMinAmount || 50
+  const minAmount = settings?.bonuses?.firstDepositMinAmount || 10
   const bonusPercentage = settings?.bonuses?.firstDepositPercentage || 30
 
   // Check if user has already received first deposit bonus

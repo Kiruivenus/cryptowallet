@@ -214,8 +214,8 @@ export default function WithdrawPage() {
           <div className="rounded-2xl border border-warning/20 bg-warning/5 p-4">
             <h3 className="mb-2 text-sm font-semibold text-warning">Important:</h3>
             <ul className="space-y-1 text-xs text-muted-foreground">
-              <li>• Withdrawals require admin approval</li>
-              <li>• Processing time: 1-24 hours</li>
+              <li>• Withdrawals are automatically proccesed once received</li>
+              <li>• Processing time: 10-20 minutes</li>
               <li>• Double-check your address before submitting</li>
               <li>• Minimum withdrawal: $10</li>
             </ul>

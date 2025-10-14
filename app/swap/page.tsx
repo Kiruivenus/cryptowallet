@@ -230,7 +230,7 @@ export default function SwapPage() {
         <div className="rounded-2xl border border-primary/20 bg-primary/5 p-4 backdrop-blur-sm">
           <h3 className="mb-2 text-sm font-semibold text-primary">Instant Swap</h3>
           <p className="text-xs text-muted-foreground">
-            Swap between USDT and USDC instantly with no fees. Exchange rates are set by the admin and updated
+            Swap between USDT and USDC instantly with no fees. Exchange rates are updated
             regularly.
           </p>
         </div>

@@ -67,7 +67,7 @@ export default function DepositPage() {
         <div className="rounded-2xl border border-success/20 bg-success/5 p-6 backdrop-blur-sm">
           <h3 className="mb-2 text-sm font-semibold text-success">First Deposit Bonus</h3>
           <p className="text-sm text-muted-foreground">
-            Get 30% extra USDT on your first deposit above $50! This is a limited time offer.
+            Get 30% extra USDT on your first deposit above $10! This is a limited time offer.
           </p>
         </div>
       </main>
