@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.cryptowallet",
+  "appName": "Crypto Wallet",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
